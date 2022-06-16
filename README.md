@@ -1,7 +1,7 @@
 ## Olá, me chamo Ismael ! 
 ### Bem vindo ao meu perfil GitHub  🤖🖖☕
 
-<img align="center" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/77652899/153739414-ec925a4b-d857-4b67-9d66-f78747cc8b34.png">
+
 <br>
 <br>
 
