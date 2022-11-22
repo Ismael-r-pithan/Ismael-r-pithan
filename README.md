@@ -9,15 +9,6 @@
 <a href="https://github.com/Ismael-r-pithan">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael-r-pithan&layout=compact&langs_count=7&theme=midnight-purple"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ismael-r-pithan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
-
-### Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
 
 
 ### Contatos:
